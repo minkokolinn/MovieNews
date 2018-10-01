@@ -16,7 +16,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
         <LinearLayout
-            android:background="#32dc1f"
+            android:background="#1f32dc"
             android:id="@+id/ll_noInternet"
             android:gravity="center"
             android:orientation="vertical"
